@@ -22,13 +22,6 @@ Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-Ou pode separar por stacks:
-
-**Front-end:**
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
 ## 👷 Autores
 
 * **Wasley Carvalho** - *Desenvolvedor* - [Wasley](https://github.com/wasleyfps)
