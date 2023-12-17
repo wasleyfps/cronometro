@@ -35,6 +35,6 @@ Esse projeto está sob a licença (Matheus Battisti)
 
 ## 💡 Expressões de gratidão
 
-* Um agradecimento publicamente.
+* Achei esse projetinho bem legal de ser feito, algo que achei visualmente bonito, mas pra fixar mais conhecimento para futuro.
 * Para suporte, mande um email para Wasleyoliveiradecarvalho@gmail.com
 * Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/wasleyfps/)
